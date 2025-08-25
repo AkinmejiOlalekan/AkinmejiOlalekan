@@ -7,11 +7,11 @@ I'm a Data Engineering graduate from [AltSchool Africa](https://learn.altschoola
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm diploma graduate of data engineering from AltSchool Africa [School of Data Engineering](https://altschoolafrica.com/schools/data) Class of 2024.
-- 🌱 I’m work with the following tools: Python, PostgreSQL, MS SQL Server, Bigquery, dbt, pandas, Docker, Airflow, Google Cloud
-- 😊 I’m seeking help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Data Engineer | Analytical Engineer (Intern or Junior level).
-- 📫 You can view [my resume](https://docs.google.com/document/d/14AOZOiV_OKrkN4yEBLgDwy-hCLUpaxDjB0CkBoYLQ-8/edit?tab=t.0) and contact me by emailing akinmejiolalekan7@gmail.com.
+- 💡 Education: Diploma in Data Engineering, AltSchool Africa [School of Data Engineering](https://altschoolafrica.com/schools/data), Class of 2024.
+- 🌱 Technical Skills: Proficient in Python, PostgreSQL, MS SQL Server, BigQuery, dbt, pandas, Docker, Apache Airflow, AWS and Google Cloud Platform.
+- 😊 Career Interests: Actively seeking opportunities to contribute to open-source projects, participate in hackathons, and gain hands-on experience through internships and entry-level roles
+- 💼 Professional Focus: Interested in roles as a Data Engineer or Analytical Engineer at the intern, entry, or junior level.
+- 📫 You can view [my resume](https://drive.google.com/file/d/1kfH0WRLAwce5iQysiQv6Efu2C25EUmuo/view?usp=drive_link) and contact me by emailing akinmejiolalekan7@gmail.com.
 
 ---
 
