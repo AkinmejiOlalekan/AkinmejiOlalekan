@@ -11,7 +11,7 @@ Data Engineering graduate from [AltSchool Africa](https://learn.altschoolafrica.
 - 🌱 Technical Skills: Proficient in Python, PostgreSQL, MS SQL Server, BigQuery, dbt, pandas, Docker, Apache Airflow, AWS and Google Cloud Platform.
 - 😊 Career Interests: Actively seeking opportunities to contribute to open-source projects, participate in hackathons, and gain hands-on experience through internships and entry-level roles
 - 💼 Professional Focus: Interested in roles as a Data Engineer or Analytical Engineer at the intern, entry, or junior level.
-- 📫 You can view [my resume](https://drive.google.com/file/d/1kfH0WRLAwce5iQysiQv6Efu2C25EUmuo/view?usp=drive_link) and contact me by emailing akinmejiolalekan7@gmail.com.
+- 📫 You can view [my resume](https://drive.google.com/file/d/1qC7oEDicxF1VygDkreX7ksMpJ_Z3ac_B/view?usp=sharing) and contact me by emailing akinmejiolalekan7@gmail.com.
 
 ---
 
