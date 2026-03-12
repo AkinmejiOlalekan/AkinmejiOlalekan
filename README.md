@@ -20,12 +20,14 @@ Currently working as a Data Engineer / Platform Engineer, building production-gr
 -	**Containerization and Orchestration**: Docker, Kubernetes (EKS)
 -	**GitOps**: ArgoCD, Atlantis
 
+---
 🌱  **Career Interests**
 - Data Engineering
 - Data Platform Engineering
 - Cloud Data Infrastructure
 - Open-source data engineering tools
-
+- 
+---
 📚 **Education**
 
 🎓 Diploma in Data Engineering
@@ -33,6 +35,7 @@ AltSchool Africa — School of Data Engineering (Class of 2024)
 
 🎓 B.Tech Microbiology
 Olusegun Agagu University of Science and Technology
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=akinmejiolalekan&show_icons=true&include_all_commits=true&hide_border=true" alt="AkinmejiOlalekan's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinmejiolalekan&langs_count=8&layout=compact&hide_border=true" alt="AkinmejiOlalekan's GitHub stats" /> |
