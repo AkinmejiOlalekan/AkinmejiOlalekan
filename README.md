@@ -10,14 +10,15 @@ I have hands-on experience designing end-to-end data pipelines, cloud data lakes
 Currently working as a Data Engineer / Platform Engineer, building production-grade data infrastructure, automating cloud deployments, and supporting large-scale data ingestion pipelines.
 
 **Technical Skils**
-•	**Programming & Scripting**: Python, Bash (Linux)
-•	**Transformation and Orchestration tools**: Apache Airflow, dbt
-•	**Databases**: Postgres, SQL Server, MongoDB
-•	**Data warehousing and Cloud Platforms**: Snowflake, AWS (EC2, S3, Glue, Redshift, RDS), GCP
-•	**Security & Compliance**: IAM Policies, VPC configuration, Data governance
-•	**IaC & DevOps**: Terraform, CI/CD, Git, Git actions
-•	**Containerization and Orchestration**: Docker, Kubernetes (EKS)
-•	**GitOps**: ArgoCD, Atlantis
+
+-	**Programming & Scripting**: Python, Bash (Linux)
+-	**Transformation and Orchestration tools**: Apache Airflow, dbt
+-	**Databases**: Postgres, SQL Server, MongoDB
+-	**Data warehousing and Cloud Platforms**: Snowflake, AWS (EC2, S3, Glue, Redshift, RDS), GCP
+-	**Security & Compliance**: IAM Policies, VPC configuration, Data governance
+-	**IaC & DevOps**: Terraform, CI/CD, Git, Git actions
+-	**Containerization and Orchestration**: Docker, Kubernetes (EKS)
+-	**GitOps**: ArgoCD, Atlantis
 
 🌱  **Career Interests**
 - Data Engineering
